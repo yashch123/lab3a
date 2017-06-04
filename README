@@ -1,0 +1,17 @@
+NAME: Sparsh Arora, Yash Choudhary 
+EMAIL: sparsharora@g.ucla.edu, yashc@g.ucla.edu
+ID: 804653078, 704630134
+
+Files:
+
+lab3a.c: Executable that contains code to produce the csv's for the file system provided.
+
+README: this file with all the information on the submission
+
+Makefile: compiles, clears and makes a tar file
+
+References used:
+cs.smith.edu/~nhowe/262/oldlabs/ext2.html
+
+IMPORTANT NOTE ABOUT LOGICAL BLOCK OFFSETS IN INDIRECT ENTRIES:
+For this part, we did not completely understand how and what logical block offset represented and hence we did it to the best of our abilities. 
